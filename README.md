@@ -27,3 +27,4 @@ This single command, executed after setup, successfully launches the training lo
 
 This hands-on validation proves the feasibility of using this PhD-level research automation framework on accessible hardware, opening the door for rapid, domain-specific knowledge engineering in areas like public health.
 
+<img width="1079" height="620" alt="image" src="https://github.com/user-attachments/assets/fe201d6e-468a-411e-8180-cb5db395b520" />
