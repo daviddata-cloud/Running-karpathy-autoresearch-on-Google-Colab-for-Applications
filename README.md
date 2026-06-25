@@ -1,7 +1,7 @@
 # Running-karpathy-autoresearch-on-Google-Colab-for-Applications
 # Technical Log: Adapting `karpathy/autoresearch` for Accessible GPU Environments (Google Colab)
 
-This document details the successful execution of Andrej Karpathy's `autoresearch` framework on a free-tier Google Colab T4 GPU. The goal was to validate this powerful tool for potential "industrialized science research" applications within the public health domain.
+This document details the successful execution of Andrej Karpathy's `autoresearch` framework on a free-tier Google Colab T4 GPU. The goal was to validate this powerful tool for potential "industrialized science research" applications within the public health domain. Note: dummy/public/synthetic data only in this project.
 
 The original framework, while groundbreaking, presents several immediate challenges on consumer-grade or cloud-based GPU instances.
 
